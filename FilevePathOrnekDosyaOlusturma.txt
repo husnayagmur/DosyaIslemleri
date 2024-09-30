@@ -1,0 +1,4 @@
+selam 
+merhaba
+gülegüle
+quit

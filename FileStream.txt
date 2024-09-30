@@ -1,0 +1,20 @@
+File Sınıfı:
+Açıklama: Bir dosya veya dizini temsil eden sınıftır. Dosyaların var olup olmadığını kontrol edebilir, oluşturabilir, silebilir ya da dosya bilgilerine erişebilirsiniz.
+2. FileInputStream Sınıfı:
+Açıklama: Bir dosyadan byte cinsinden veri okumaya yarar. Genellikle ikili (binary) dosyalar üzerinde kullanılır.
+3. FileOutputStream Sınıfı:
+Açıklama: Bir dosyaya byte cinsinden veri yazmak için kullanılır. Metin dosyalarından ziyade ikili dosyalar için uygundur.
+4. InputStreamReader Sınıfı:
+Açıklama: Byte olarak okunan verileri karakter verisine dönüştüren sınıftır. Byte tabanlı veriyi karakter tabanlı hale getirir.
+5. OutputStreamWriter Sınıfı:
+Açıklama: Karakter verilerini byte verisine dönüştürerek dosyaya yazmayı sağlar. Karakter tabanlı verileri dosyaya yazarken kullanılır.
+6. BufferedReader Sınıfı:
+Açıklama: Karakter tabanlı verileri tamponlayarak (buffer) okuma hızını artıran sınıftır. Büyük dosyaları daha verimli şekilde satır satır okumak için kullanılır.
+7. BufferedWriter Sınıfı:
+Açıklama: Karakter tabanlı verileri tamponlayarak yazma hızını artıran sınıftır. Yazma işlemini tamponlayarak topluca dosyaya yazar.
+8. IOException (Giriş/Çıkış Hatası):
+Açıklama: Dosya veya ağ işlemleri sırasında meydana gelebilecek hataları temsil eden istisna (exception) türüdür. Dosya bulunamadığında veya başka bir hata oluştuğunda fırlatılır.
+9. FileReader Sınıfı:
+Açıklama: Bir dosyadan karakter tabanlı veri okumaya yarayan sınıftır. Genellikle metin dosyalarını okumak için kullanılır.
+10. FileWriter Sınıfı:
+Açıklama: Bir dosyaya karakter tabanlı veri yazmak için kullanılır. Metin dosyalarına yazmak için uygundur.
